@@ -11,5 +11,5 @@ Tableau Covid analysis dashboard 2020-2021
 URL : https://public.tableau.com/views/Coviddashboard2020-2021/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
-
+3. Cleaning the data of an Raw xls data to use using SQL {Comments for each line is added}
 
